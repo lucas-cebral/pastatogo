@@ -1,0 +1,21 @@
+.btn-blue {
+text-decoration: none;
+background-color: rgb(153,134,102);
+padding: 15px 20px;
+border-radius: 4px;
+color: white;
+font-weight: bold; 
+font-family: "roboto", sans-serif;
+}
+
+.btn-subscription {
+text-decoration: none;
+background-color: rgb(153,134,102);
+border-radius: 4px;
+color: white;
+font-weight: bold; 
+font-family: "roboto", sans-serif;
+margin-left: 200px;
+padding: 15px 20px;
+align-items: center;
+}
